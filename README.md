@@ -1,6 +1,6 @@
 # npptolatex: 
 
-from http://johnbruer.com/2013/05/21/latex-editing-using-notepad/
+The following tutorial is from http://johnbruer.com/2013/05/21/latex-editing-using-notepad/, I have made some modifications to the batch files to allow for XeLaTex compiling.
 
 LaTeX is a powerful markup language used for typesetting documents. Its ability to professionally typeset mathematics in particular makes it a commonly used tool in academia. If you are reading this, you probably know all about LaTeX, so I don’t need to explain it in detail. Instead, I want to explain how I came to use Notepad++ as my LaTeX editor.
 
